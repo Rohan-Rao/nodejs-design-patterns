@@ -1,0 +1,11 @@
+{
+  "name": "event-emitter",
+  "version": "1.0.0",
+  "description": "contains examples of event-emitter",
+  "main": "create-and-use-event-emitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohan Rao",
+  "license": "ISC"
+}
